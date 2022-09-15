@@ -13,3 +13,4 @@ function displayCandies() {
         candyList.append(candyElement);
     }
 }
+displayCandies();
